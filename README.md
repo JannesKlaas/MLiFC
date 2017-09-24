@@ -1,6 +1,17 @@
 # Welcome to MLiFC
 Hi! You found the MLiFC GitHub repository. What is MLiFC you ask?
-MLiFC is the machine learning in financial context bootcamp, taught at [turing society rotterdam](http://tsociety.io/), also known as 'Bletchley'. The content here is mostly developed by Jannes Klaas with the support of a wide community of technical and non-technical people. You are welcome to join us.
+MLiFC is the machine learning in financial context bootcamp, taught at [turing society rotterdam](http://tsociety.io/), also known as 'Bletchley'. The content here is mostly developed by Jannes Klaas with the support of a community of technical and non-technical people. You are welcome to join us.
+
+The Bletchley bootcamp will cover these topics:
+- Week 1: Intro to ML, underlying math and building an NN from scratch
+- Week 2: Intro to Keras, feature engineering, normalization, regularization
+- Week 3: Skewed datasets, Adam & RMSprop, beta, momentum, minibatches, quality metrics
+- Week 4: Computer vision and convolution
+- Week 5: Sequence models and natural language processing
+- Week 6: Reinforcement learning & the road to AI
+- Week 7: Roundup & Final project
+
+It is intended as a jumping board into ML & AI, a basis from which students can dive deeper into specific topics that interest them.
 
 ## What is this repository?
 In this repository we are developing all the course material, free and open for everyone. There is not much good material to help business folk learn about machine learning. So we set out to create our own!
