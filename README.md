@@ -4,8 +4,8 @@ MLiFC is the machine learning in financial context bootcamp, taught at [turing s
 
 The Bletchley bootcamp will cover these topics:
 - Week 1: Intro to ML, underlying math and building an NN from scratch
-- Week 2: Intro to Keras, feature engineering, normalization, regularization
-- Week 3: Skewed datasets, Adam & RMSprop, beta, momentum, minibatches, quality metrics
+- Week 2: Intro to Keras, feature engineering, normalization, regularization,Adam & RMSprop, beta, momentum, minibatches
+- Week 3: Debugging, skewed data, quality metrics
 - Week 4: Computer vision and convolution
 - Week 5: Sequence models and natural language processing
 - Week 6: Reinforcement learning & the road to AI
