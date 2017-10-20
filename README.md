@@ -4,9 +4,24 @@ MLiFC is short for machine learning in financial context, a new textbook that ai
 
 The content here is mostly developed by Jannes Klaas with the support of a community of technical and non-technical people. You are welcome to join us.
 
-The Bletchley bootcamp will cover these topics:
+## Table of content
+This ToC gets updated as new chapters come online:
+
 - Week 1: Intro to ML, underlying math and building an NN from scratch
-- Week 2: Intro to Keras, feature engineering, normalization, regularization,Adam & RMSprop, beta, momentum, minibatches
+  - [Ch. 1 - Intro](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%201/Ch.%201%20-%20Intro.ipynb)
+  - [Ch. 2 - Neural Network from scratch (Pt. 1)](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%201/Ch.%202%20-%20Neural%20Network%20from%20scratch%20%28Pt.%201%29.ipynb)
+  - [Ch. 3 - Training process and the learning rate.ipynb](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%201/Ch.%203%20-%20Training%20process%20and%20the%20learning%20rate.ipynb)
+  - [Ch. 4 - A deeper network & Overfitting](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%201/Ch.%204%20-%20A%20deeper%20network%20%26%20Overfitting.ipynb)
+  - [Ch. 5 - Multiclass Regression](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%201/Ch.%205%20-%20Multiclass%20Regression.ipynb)
+  - [Ch. 6 - Minibatch Gradient Descent](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%201/Ch.%206%20-%20Minibatch%20Gradient%20Descent.ipynb)
+  
+- Week 2: Structured data
+  - [Ch. 7 - Intro to Keras](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%207%20-%20Intro%20to%20Keras.ipynb)
+  - [Ch. 8 - The machine learning workflow](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%208%20-%20The%20machine%20learning%20workflow.ipynb)
+  - [Ch. 9 - Feature engineering & data preparation](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%209%20-%20Feature%20engineering%20%26%20data%20preparation.ipynb)
+  - [Ch. 10 - New frills for our neural network](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%2010%20-%20New%20frills%20for%20our%20neural%20network.ipynb)
+  - [Ch. 11 - Evaluating and deploying the model](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%2011%20-%20Evaluating%20and%20deploying%20the%20model.ipynb)
+  - Ch. 12 - Other learning algorithms (Coming soon)
 - Week 3: Computer vision and convolution
 - Week 4: Sequence models and natural language processing
 - Week 5: Debugging
