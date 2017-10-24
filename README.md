@@ -21,7 +21,7 @@ This ToC gets updated as new chapters come online:
   - [Ch. 9 - Feature engineering & data preparation](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%209%20-%20Feature%20engineering%20%26%20data%20preparation.ipynb)
   - [Ch. 10 - New frills for our neural network](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%2010%20-%20New%20frills%20for%20our%20neural%20network.ipynb)
   - [Ch. 11 - Evaluating and deploying the model](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%2011%20-%20Evaluating%20and%20deploying%20the%20model.ipynb)
-  - Ch. 12 - Other learning algorithms (Coming soon)
+  - [Ch. 12 - Trees and Ensembles](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%2012%20-%20Trees%20and%20Ensembles.ipynb)
 - Week 3: Computer vision and convolution
 - Week 4: Sequence models and natural language processing
 - Week 5: Debugging
