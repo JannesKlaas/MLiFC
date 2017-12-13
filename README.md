@@ -23,6 +23,9 @@ This ToC gets updated as new chapters come online:
   - [Ch. 11 - Evaluating and deploying the model](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%2011%20-%20Evaluating%20and%20deploying%20the%20model.ipynb)
   - [Ch. 12 - Trees and Ensembles](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%202/Ch.%2012%20-%20Trees%20and%20Ensembles.ipynb)
 - Week 3: Computer vision and convolution
+  - [Ch. 13 - Intro to Computer Vision](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2013%20-%20Intro%20to%20Computer%20Vision.ipynb)
+  - [Ch. 14 - Building an Image classifier](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2014%20-%20Building%20an%20Image%20classifier.ipynb)
+  - [Ch. 15 - Theory Interlude - Tensor and Flow](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2015%20-%20Theory%20Interlude%20-%20Tensor%20and%20Flow.ipynb)
 - Week 4: Sequence models and natural language processing
 - Week 5: Debugging
 - Week 6: Reinforcement learning & the road to AI
