@@ -26,6 +26,7 @@ This ToC gets updated as new chapters come online:
   - [Ch. 13 - Intro to Computer Vision](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2013%20-%20Intro%20to%20Computer%20Vision.ipynb)
   - [Ch. 14 - Building an Image classifier](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2014%20-%20Building%20an%20Image%20classifier.ipynb)
   - [Ch. 15 - Theory Interlude - Tensor and Flow](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2015%20-%20Theory%20Interlude%20-%20Tensor%20and%20Flow.ipynb)
+  - [Ch. 16 Ch. 16 - Yolo object localization](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2016%20-%20Yolo%20object%20localization.ipynb)
 - Week 4: Sequence models and natural language processing
 - Week 5: Debugging
 - Week 6: Reinforcement learning & the road to AI
