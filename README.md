@@ -2,6 +2,8 @@
 Hi! You found the MLiFC GitHub repository. What is MLiFC you ask?
 MLiFC is short for machine learning in financial context, a new textbook that aims to teach business, economics and social science students practical machine learning and its applications in business and finance. It is written for the MLiFC bootcamp, taught at [turing society rotterdam](http://tsociety.io/), also known as 'Bletchley'. 
 
+You can apply to the Bletchley bootcamp taught in Rotterdam from February to April 2018 [here](https://ai-bootcamp.org). For students who have recieved an invitation to complete the [Python challenge](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Admission/BL%20Admission-Empty.ipynb), you can find it [here](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Admission/BL%20Admission-Empty.ipynb)
+
 The content here is mostly developed by Jannes Klaas with the support of a community of technical and non-technical people. You are welcome to join us.
 
 ## Table of content
