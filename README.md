@@ -30,6 +30,9 @@ This ToC gets updated as new chapters come online:
   - [Ch. 15 - Theory Interlude - Tensor and Flow](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2015%20-%20Theory%20Interlude%20-%20Tensor%20and%20Flow.ipynb)
   - [Ch. 16 Ch. 16 - Yolo object localization](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%203/Ch.%2016%20-%20Yolo%20object%20localization.ipynb)
 - Week 4: Sequence models and natural language processing
+  - [Ch. 17 - NLP and Word Embeddings](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%204/Ch.%2017%20-%20NLP%20and%20Word%20Embeddings.ipynb)
+  - [Ch. 18 - Temporal Order Matters](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%204/Ch.%2018%20-%20Temporal%20Order%20Matters.ipynb)
+  - [Ch. 19 - LSTM for Email classification](http://nbviewer.jupyter.org/github/JannesKlaas/MLiFC/blob/master/Week%204/Ch.%2019%20-%20LSTM%20for%20Email%20classification.ipynb)
 - Week 5: Debugging
 - Week 6: Reinforcement learning & the road to AI
 - Week 7: Roundup & Final project
