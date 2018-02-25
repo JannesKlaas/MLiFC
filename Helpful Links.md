@@ -48,6 +48,10 @@
 Note that the course does not require you to set up Jupyter notebooks as everything runs in the cloud.
 - [Getting started with jupyter notebooks](https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46)
 
+## Google Colab
+- [Videos explaining Colab and the most important bash commands](https://www.youtube.com/playlist?list=PLRTlAn1QOpXWy697LDSedJhSJFOquE6cU)
+- [Colab overview with many helpful links](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+
 ## Other good DL courses
 - [Fast AI](http://www.fast.ai/)
 - [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/)
