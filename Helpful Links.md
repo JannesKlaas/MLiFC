@@ -2,6 +2,21 @@
 
 - [Useful snippet collection for most problems you will encounter](https://chrisalbon.com/#python)
 
+## Winning submissions
+### Week 1
+- [Excel Neural Net](https://storage.googleapis.com/aibootcamp/Week%201/Week%201%20Challenge%20-%20Group%202.xlsx)
+
+### Week 2
+- [No ML by Team 8](https://www.kaggle.com/eneacaccia/week2-challenge-simple-stats)
+- [Best ML approach](https://www.kaggle.com/thijsq/week-2-challenge)
+
+### Week 3
+- [Xception bottleneck](https://drive.google.com/file/d/1a6c7pHzsWD2nNK9wAuI6yv0RFe5I6qVf/view?usp=sharing)
+
+## Presentations
+- [Week 2 - ML in the value chain](https://storage.googleapis.com/aibootcamp/presentations/W2%20ML%20big%20picture.pdf)
+- [Week 3 - The goal of ML](https://storage.googleapis.com/aibootcamp/presentations/W3%20Goal%20of%20ML.pdf)
+
 ## Python:
 - [Beginners Cheat Sheet](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc.pdf)
 
